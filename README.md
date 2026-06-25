@@ -22,7 +22,6 @@ Orientation sécurité informatique et programmation système.
 |---|---|---|
 | Chess FC | Jeu de stratégie mêlant échecs et football | Python |
 | Akropolis | Adaptation du jeu de société avec interface graphique | C++, Qt, UML |
-| Gestion de trains | Base de données ferroviaire et application de manipulation | SQL, MongoDB, Python |
 | Chat temps réel | Application web de salons de discussion (admin, SPA, WebSocket) | Java/Spring, React |
 
 Projets réalisés dans le cadre de la formation Génie Informatique de l'UTC.
