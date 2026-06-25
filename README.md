@@ -1,7 +1,7 @@
 # Quentin Desroche
 
 Étudiant en Génie Informatique à l'Université de Technologie de Compiègne (UTC).
-Orientation sécurité informatique et programmation système / bas niveau.
+Orientation sécurité informatique et programmation système.
 
 **Recherche un stage d'assistant ingénieur** du 24/08/2026 au 05/02/2027
 (cybersécurité, développement C/C++/Linux ou logiciel embarqué).
